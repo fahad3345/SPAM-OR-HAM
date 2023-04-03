@@ -1,4 +1,4 @@
-# spam-or-not
+# SPAM-OR-HAM
 It's a sms spam detection project, here we have a dataset containing 6000+ text sms 
 Firstly we clean the data like remove unwanted columns, remove dublicate raws  and encode our target column etc
 secondly we apply EDA on our dataset
